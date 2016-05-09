@@ -4,7 +4,7 @@ Sample code for a simple Chrome extension that provides quick access to any webs
 -----
 
 #### Install Instructions
-1. Download the repo as a ZIP & unzip.
+1. [Download this repo](https://github.com/parterburn/simple-chrome-extension/archive/master.zip) as a ZIP & unzip.
 2. Visit **chrome://extensions/** in Chrome.
 3. Check **Developer Mode** in upper right.
 4. Click **Load Unpacked Extension** and choose the directory where you unzipped this repo.
